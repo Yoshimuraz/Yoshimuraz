@@ -35,7 +35,7 @@ Em breve, esta seção contará com aplicações práticas envolvendo:
 ---
 
 ## 🌐 Onde me encontrar
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="[https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/guilherme-yoshimura-311b43305)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 📩 Email: **guilhermeyvifran@gmail.com**
 
 ---
