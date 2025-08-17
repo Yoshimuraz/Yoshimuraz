@@ -31,10 +31,6 @@ Em breve, esta seção contará com aplicações práticas envolvendo:
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
 
 ---
 
